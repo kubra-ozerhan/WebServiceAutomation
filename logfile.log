@@ -1,0 +1,3 @@
+2024-01-28 02:40:48,803 INFO  [Log] Create Board and Cards PASSED 
+2024-01-28 02:40:50,608 INFO  [Log] Update randomly one of the cards then Delete the Card PASSED 
+2024-01-28 02:40:51,770 INFO  [Log] Delete Board PASSED 
