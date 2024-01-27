@@ -14,8 +14,8 @@ public class BaseTest {
     @BeforeEach
     public void setUp() {
         // Setup TrelloService with your API key and token
-        trelloService = new TrelloService("e9a0f4f375d925a3146febbebc5fbdaa"
-                , "ATTAfe8d44733ba907b8b0dad3e321e9a4ce717c296827303cfe6634dac7339b85ea7BCF4AB6");
+        trelloService = new TrelloService("My API Key"
+                , "My Token");
 
     }
 
